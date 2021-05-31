@@ -1,5 +1,5 @@
 
-Hosting link : https://stock-96805.web.app/
+Check this website link : https://stock-96805.web.app/
 
 # StockTicker
 
